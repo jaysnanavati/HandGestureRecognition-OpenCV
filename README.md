@@ -1,9 +1,11 @@
-HCI-Layer
+Hand Gesture Recognition Using OpenCV
 =========
 
-Image processing code for hand gesture recognition (Games Console)
+Image processing code for hand gesture recognition
 
-[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
+### Demo: Playing Angry Birds using hand gestures
+
+[![Playing Angry Birds using this](http://static.independent.co.uk/s3fs-public/thumbnails/image/2016/05/06/10/angry-birds.jpg)](https://vimeo.com/62918234)
 
 ### Notes:
 
