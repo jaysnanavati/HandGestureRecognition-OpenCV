@@ -3,6 +3,8 @@ HCI-Layer
 
 Image processing code for hand gesture recognition (Games Console)
 
+[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
+
 ### Notes:
 
 The JavaCV libraries are not hosted on the maven central repositoriy for this reason you will have to visit:
